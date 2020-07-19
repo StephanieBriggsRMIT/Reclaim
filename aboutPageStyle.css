@@ -64,12 +64,12 @@ header .profileHeader h3 {
 	line-height: 24px;
 }
 hr {
-	background-color: rgba(208,207,207,1.00);
+	background-color: green);
 	height: 1px;
 }
 header .profileHeader p {
 	font-family: sans-serif;
-	color: rgba(146,146,146,1.00);
+	color: green;
 	font-size: 14px;
 	font-weight: 400;
 	line-height: 1.8;
@@ -113,7 +113,7 @@ header .socialNetworkNavBar .socialNetworkNav img:hover {
 	font-family: ProximaNova;
 	font-size: 14px;
 	font-weight: 100;
-	color: rgba(208,207,207,1.00);
+	color: green;
 }
 .mainContent .section1 .section1Content span {
 	color: rgba(146,146,146,1.00);
